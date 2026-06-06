@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.log
+audit.jsonl
+.DS_Store
+.vscode/
+.idea/
+docker-compose.override.yml
+*.bak.*
